@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ve3H3PVnpQLK2LQJKIoyS0OPMRptOR7PcK4E5zXkxkY=",
+  "Source": "TTTService.HttpApi",
+  "BasePath": "_content/TTTService.HttpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

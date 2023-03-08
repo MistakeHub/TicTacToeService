@@ -1,0 +1,17 @@
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\bin\Debug\net7.0\TTTService.infrastructure.deps.json
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\bin\Debug\net7.0\TTTService.infrastructure.runtimeconfig.json
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\bin\Debug\net7.0\TTTService.infrastructure.dll
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\bin\Debug\net7.0\TTTService.infrastructure.pdb
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\TTTService.infrastructure.csproj.AssemblyReference.cache
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\TTTService.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\TTTService.infrastructure.AssemblyInfoInputs.cache
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\TTTService.infrastructure.AssemblyInfo.cs
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\TTTService.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\TTTService.infrastructure.dll
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\refint\TTTService.infrastructure.dll
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\TTTService.infrastructure.pdb
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\TTTService.infrastructure.genruntimeconfig.cache
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\ref\TTTService.infrastructure.dll
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\bin\Debug\net7.0\TTTService.Domain.dll
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\bin\Debug\net7.0\TTTService.Domain.pdb
+C:\Users\Shawn\source\repos\TTTService\TTTService.infrastructure\obj\Debug\net7.0\TTTService.infrastructure.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\bin\Debug\net7.0\TTTService.Domain.deps.json
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\bin\Debug\net7.0\TTTService.Domain.dll
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\bin\Debug\net7.0\TTTService.Domain.pdb
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\obj\Debug\net7.0\TTTService.Domain.csproj.AssemblyReference.cache
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\obj\Debug\net7.0\TTTService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\obj\Debug\net7.0\TTTService.Domain.AssemblyInfoInputs.cache
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\obj\Debug\net7.0\TTTService.Domain.AssemblyInfo.cs
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\obj\Debug\net7.0\TTTService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\obj\Debug\net7.0\TTTService.Domain.dll
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\obj\Debug\net7.0\refint\TTTService.Domain.dll
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\obj\Debug\net7.0\TTTService.Domain.pdb
+C:\Users\Shawn\source\repos\TTTService\TTTService.Domain\obj\Debug\net7.0\ref\TTTService.Domain.dll
