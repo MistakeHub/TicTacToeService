@@ -47,7 +47,7 @@ services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(
         IssuerSigningKey = AuthOption.GetSymmetricSecurityKey(),
 
         ValidateIssuerSigningKey = true,
-        ClockSkew = TimeSpan.Zero,
+        
     };
 });
 services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
