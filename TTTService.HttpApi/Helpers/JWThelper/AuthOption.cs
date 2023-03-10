@@ -8,7 +8,7 @@ namespace TTTService.HttpApi.Helpers.JWThelper
         public const string ISSUER = "MyAuth";
         public const string AUDIENCE = "AudienceofThisToken";
         public const string SECRETKEY= "MySecretKey5473123087";
-        public const int LIFETIME = 1;
+        public const int LIFETIME = 39999;
         public static SymmetricSecurityKey GetSymmetricSecurityKey()
         {
             return new SymmetricSecurityKey(Encoding.ASCII.GetBytes(SECRETKEY));
